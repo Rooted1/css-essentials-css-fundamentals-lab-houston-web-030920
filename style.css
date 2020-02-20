@@ -4,7 +4,11 @@ body {
   margin: 0;
 }
 
+div{
+  background-color: blue;
+  width: 25%
+}
+
 h1 {
   color: red;
-  align: center
 }

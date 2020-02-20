@@ -1,6 +1,7 @@
 a {
   padding: 10px;
-  background-color: gray 
+  background-color: gray;
+  text-align: center
 }
   body {
   width: 100%;
@@ -20,7 +21,6 @@ h1 {
 
 img {
   font-size: 20px;
-  align-content: center
 }
 
 p#featured-property {
